@@ -1,16 +1,19 @@
-## Hi there 👋
+ Hi I'm Saurabh Navale
 
-<!--
-**SaurabhNavale-02/SaurabhNavale-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst with hands-on experience in real-world datasets  
+📊 Passionate about transforming data into insights  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (PostgreSQL, MySQL)
+- Excel (Advanced formulas, Pivot Tables)
+- Power BI / Tableau
+- Data Cleaning & EDA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+-  Sales Performance Analysis (Python + SQL)
+-  Customer Behavior Analysis 
+-  Power BI Sales Dashboard
+
+### 📫 Connect with me
+- linkedin.com/in/saurabh-navale-955b36370
